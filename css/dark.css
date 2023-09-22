@@ -133,12 +133,13 @@ h1{
     cursor: pointer;
 }
 .row button{
-    color: rgb(101, 101, 101);
+    /* color: rgb(101, 101, 101); */
+    color:#fff;
 }
 
 .row button:hover{
     background-color: rgb(101, 101, 101);
-    color: #fff;
+    color: #cecbcb;
     font-weight: bold;
 }
 
